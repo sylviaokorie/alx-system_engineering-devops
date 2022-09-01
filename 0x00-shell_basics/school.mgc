@@ -1,2 +1,2 @@
-string\tSCHOOL\tdata
-!:mime School
+#!/bin/bash
+string\tSCHOOL\tdata !:mime School
